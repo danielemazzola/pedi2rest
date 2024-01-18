@@ -1,0 +1,111 @@
+{   
+    "dashboard": {
+        "title":"Dashboard",
+        "description":"Description of your account with PEDI2.",
+        "information":"information",
+        "name":"Name",
+        "dateRegister":"Date Register",
+        "telephone":"Phone",
+        "email":"email",
+        "user":"user",
+        "confirmed":"confirmed",
+        "noConfirmed":"No confirmed",
+        "membership":"membership",
+        "membershipPremium":"premium",
+        "membershipStandard":"standard",
+        "role":"role",
+        "roleAdmin":"Admin",
+        "roleUser":"User"
+
+    },
+    "category":{
+        "title":"Category",
+        "description":"Create and modify your categories.",
+        "create":"Create new Category",
+        "close":"Close",
+        "editCategory":"Edit Category",
+        "createCategory":"Create Category",
+        "formCategoryName":"Category Name",
+        "formDescription":"Description",
+        "formOpen":"Open",
+        "formClose":"Close",
+        "formImputCreate":"Create Category",
+        "formImputEdit":"Edit Category",
+        "formButtonCancel":"Cancel",
+        "formImputImageSelect":"Select image",
+        "formImputImageEdit":"Change image"
+    },
+    "myCategories":{
+        "yourCategories":"Your Categories",
+        "yourCategoriesDescription":"Select a category to modify it",
+        "open":"Open:",
+        "close":"Close:",
+        "created":"Created:"
+    },
+
+    "products":{
+        "title":"Products",
+        "description":"All products according to categories",
+        "create":"Create new Product",
+        "close":"Close",
+        "edit_Product":"Edit Product",
+        "new_Product":"New Product",
+        "formCategories":"Categories",
+        "getCategoryPlaceHolder":"Category",
+        "formPlateName":"Plate Name",
+        "formDescription":"Description of plate",
+        "formShowTrue":"¡No Show!",
+        "formShowFalse":"¡Show!",
+        "formAllergens":"Allergens",
+        "getAllergensPlaceHolder":"Allergens",
+        "formImputCreate":"Create",
+        "formImputEdit":"Save",
+        "formImputCancel":"Cancel",
+        "formImputImageSelect":"Select image",
+        "formImputImageEdit":"Change image",
+        "formPrice":"Price"
+    },
+    "productList": {
+        "title":"Your Product List",
+        "description":"Select a category to modify it",
+        "visibleTrue":"Visible",
+        "visibleFalse":"No visible",
+        "allergen":"Allergen:",
+        "allergens":"Allergens:",
+        "createDateProduct":"Created"
+    },
+    "table": {
+        "title":"Tables",
+        "description":"Manage and create your tables.",
+        "close":"Close",
+        "create":"Create table"
+    },
+    "tableForm": {
+        "title":"Create table",
+        "tableNumber":"Table number",
+        "tableNumberInput":"Table number",
+        "createInput":"Create table"
+    },
+    "tableList": {
+        "title":"My tables",
+        "description":"All the information related to your already created tables",
+        "tableNumber":"Table number:",
+        "stateTableTrue":"Available",
+        "stateTableFalse":"Not available",
+        "availableTrue":"Don't show",
+        "availableFalse":"Show",
+        "customers":"Customers:",
+        "orders":"Orders:",
+        "pending":"Pending:",
+        "process":"Process:",
+        "confirmed":"Confirmed:",
+        "create":"Create:",
+        "deleteInput":"Delete",
+        "total":"Total"
+
+    },
+    "purchases": {
+        "title":"My orders",
+        "description": "All information related to your orders"
+    }
+}

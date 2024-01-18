@@ -1,0 +1,15 @@
+export const options = [
+    { value: 'milk' , label: 'Lacteos' },  
+    { value: 'eggs' , label: 'Huevos' },  
+    { value: 'fish' , label: 'Pescado' },  
+    { value: 'crustacean_shellfish' , label: 'Crustaceos' },  
+    { value: 'tree_nuts' , label: 'Frutos con cascaras' },    
+    { value: 'wheat' , label: 'Gluten' },  
+    { value: 'soybeans' , label: 'Soja' },
+    { value: 'celery' , label: 'Apio' },
+    { value: 'mustard' , label: 'Mostaza' },
+    { value: 'sesame' , label: 'Sesamo' },
+    { value: 'sulphites' , label: 'Sulfitos' },
+    { value: 'lupines' , label: 'Altramuses' },
+    { value: 'molluscs' , label: 'Moluscos' },
+]
